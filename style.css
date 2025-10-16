@@ -109,6 +109,10 @@ input,button{
   width: 318px;
 }
 
+#add-section {
+  margin: 16px 0;
+}
+
 /* Task list */
 .task {
   overflow: hidden;
