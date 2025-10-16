@@ -5,23 +5,23 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.hero {
+.header {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.hero__img {
+.header__img {
   width: 100%;
 }
 
-.hero .hero__details-link {
+.header .header__details-link {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .hero {
+  .header {
     text-align: center;
   }
 }
@@ -100,7 +100,7 @@ input,button{
 }
 
 /* New Task */
-.add-item-label {
+.add-section__title {
   display: block;
   margin: 0 0 20px;
 }
@@ -109,7 +109,7 @@ input,button{
   width: 318px;
 }
 
-#add-section {
+.add-section {
   margin: 16px 0;
 }
 
