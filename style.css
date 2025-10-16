@@ -21,7 +21,7 @@ body {
 }
 
 @media (max-width:768px) {
-  .hero { 
+  .hero {
     text-align: center;
   }
 }
