@@ -29,7 +29,7 @@ input, button {
   width: 100%;
 }
 
-.header .header__details-link {
+.header__details-link {
   font-family: fantasy, cursive;
 }
 
@@ -132,7 +132,7 @@ input, button {
   width: 226px;
 }
 
-.task >    .input-text {
+.task > .input-text {
   width: 226px;
 }
 
